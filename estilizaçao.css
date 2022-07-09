@@ -1,0 +1,25 @@
+iframe{
+    background-position: 50% 50%;
+
+}
+h1{
+    font-family: italic;
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.green{
+    color:green;
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+#lot{
+    color:white;
+}

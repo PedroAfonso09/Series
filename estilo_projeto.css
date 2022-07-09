@@ -1,0 +1,125 @@
+     .vermelho {
+         color: #f5390a;
+         font-size: 22px;
+     }
+
+     #AoS {
+        background-color: #ffe53bc2;
+        background-image: linear-gradient(147deg, #ffe53bbd 0%, #FF2525 74%);        
+         width: 100%;
+         height: 400px;
+     }
+
+     #Atirador {
+        background-color: #292eb1c9;
+        background-image: linear-gradient(135deg, #292eb1c2 0%, #4d52b3 100%);                   
+         width: 100%;
+         height: 400px;
+     }
+
+     .atirador {
+         font-family: italic;
+         color: gold;
+         text-align: center;
+     }
+
+     .AOs {
+         font-family: italic;
+         color: rgb(255, 74, 74);
+         text-align: center;
+     }
+
+     .texto02 {
+         font-family: 'Times New Roman', Times, serif;
+         font-size: 17px;
+         color: rgb(255, 255, 255);
+         text-align: center;
+     }
+     #BobaFett {
+        background-color: #2c41e4be;
+        background-image: linear-gradient(180deg, #2c43e4 25%, #ffe32cc4 100%);                  
+         width: 100%;
+         height: 400px;
+     }
+
+     .BobaFett {
+         font-family: 'Times New Roman', Times, serif;
+         color: darkgoldenrod;
+         text-align: center;
+     }
+
+     #serie_obi-wan {
+        background-color: #fbac7ed5;
+        background-image: linear-gradient(62deg, rgba(236, 177, 15, 0.76) 0%, #f7cf68c7 100%);        
+         width: 100%;
+         height: 420px;
+     }
+
+     .Obi-WanKenobi {
+         font-family: 'Times New Roman', Times, serif;
+         font-size: 15px;
+         color: rgb(0, 0, 0);
+         text-align: justify;
+     }
+
+     iframe {
+         display: flex;
+     }
+
+     #simpsons {
+         background-color: #f3faffbd;
+         background-image: linear-gradient(160deg, #f3f8ffc9 0%, #001eff 100%);
+         width: 100%;
+         height: 400px;
+     }
+
+     .simpsons {
+         font-family: 'Times New Roman', Times, sans-serif;
+         font-size: 15px;
+         color: rgb(0, 0, 0);
+         text-align: justify;
+     }
+
+     .simpsons_titulo {
+         font-family: italic;
+         color: gold;
+         text-align: center;
+     }
+
+     #EU_A_PATROA {
+        background-color: #ccc1c1d5;
+        background-image: linear-gradient(0deg, #9e8f8fc7 0%, #2d3333 100%);        
+         width: 100%;
+         height: 400px;
+     }
+
+     .EU_A_PATROA {
+         font-family: 'Times New Roman', Times, sans-serif;
+         font-size: 15px;
+         color: rgb(0, 0, 0);
+         text-align: justify;
+     }
+
+     .EU_A_PATROA_titulo {
+         font-family: italic;
+         color: rgb(255, 230, 0);
+         text-align: center;
+     }
+
+     #brooklyn_nine-nine {
+         background-color: #060606d2;
+         background-image: linear-gradient(0deg, #060606 0%, #475454ce 100%);        
+         width: 100%;
+         height: 420px;
+     }
+     #era_do_gelo {
+        background-color: #96d4efc4;
+        background-image: linear-gradient(0deg, #96d4efb9 0%, #0899ea 100%);        
+        width: 100%;
+        height: 400px;
+    }
+    .era_do_gelo {
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(11, 43, 184);
+        text-align: center;
+    }

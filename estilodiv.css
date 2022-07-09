@@ -1,0 +1,58 @@
+#cabeçalho{
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    background: rgb(209, 245, 164);
+    background-image: url(walpapers.jpg)
+}
+#conteudo{
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    background: rgb(71, 71, 238);
+}
+#rodapé{
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    background: greenyellow;
+}
+#box{
+    width: 137px;
+    height:41px ;
+    overflow-x: 606px;
+    overflow-y: 134px;
+    margin: 0 auto;
+    border:4px 4px solid black;
+    background-image: url(black.png);
+}
+#arrow{
+    background-color: rgba(95, 143, 95, 0.873);
+    height: 400px;
+}
+#vikings{
+    background-color: rgb(97, 97, 122);
+    height: 400px;
+}
+#SH{
+    background-color: rgb(159, 200, 227);
+    height: 400px;
+}
+#LOT{
+    background-color: rgb(53, 53, 123);
+    height: 400px;
+}
+#TLU{
+    background-color: rgb(225, 186, 88);
+}
+#divright {
+    float: right;   
+    background: #0066A2;
+    color: white;
+    border-style:outset;
+    border-color: #0066A2;
+    height: 40px;
+    width: 70px;
+    font: bold 20px arial, sans-serif;
+    text-shadow:none;   
+    }

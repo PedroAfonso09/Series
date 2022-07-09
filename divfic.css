@@ -1,0 +1,38 @@
+#cabeçalho {
+    width: 100;
+    height: 100px;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin: 0 auto;
+    background-image: url(walpapers.jpg);
+}
+
+#box {
+    width: 300px;
+    height: 41px;
+    overflow-x: 606px;
+    overflow-y: 134px;
+    margin: 0 auto;
+    border: 4px 4px solid rgb(0, 0, 0);
+    background-image: url(black.png);
+}
+
+#TLS {
+    background-color: rgb(251, 111, 106);
+    height: 400px;
+}
+
+#invasion {
+    background-color: rgba(47, 178, 123, 0.975);
+    height: 400px;
+}
+
+#ST {
+    background-color: rgba(123, 2, 204, 0.922);
+    height: 450px;
+}
+
+#flash {
+    background-color: orange;
+    height: 500px;
+}

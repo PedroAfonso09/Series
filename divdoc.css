@@ -1,0 +1,52 @@
+#Documentario {
+    background-color: rgb(255, 228, 196);
+    width: 100%;
+    height: 100px;
+    overflow-y: auto;
+    overflow-x: auto;
+    margin: auto;
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+
+}
+
+#box {
+    width: 200px;
+    height: 30px;
+    margin: auto;
+    background-image: linear-gradient(108deg, rgba(242, 245, 139, 1) 17.7%, rgba(148, 197, 20, 0.68) 91.2%);
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: larger;
+    color: rgb(0, 0, 0);
+
+}
+
+#Schumacher {
+    background-color: #19248b;
+    background-image: linear-gradient(180deg, #d3d7e9 0%, #cf9ff7 50%, #f57a7a 100%);
+    height: 480px;
+}
+
+#Black-Holes {
+    background-color: #0c405c;
+    background-image: linear-gradient(160deg, #bdd6d8 0%, #375094 100%);
+    height: 450px;
+}
+
+#CR7 {
+    background-image: linear-gradient(180deg, #d3d7e9 0%, #cf9ff7 50%, #f57a7a 100%);
+    height: 470px;
+    background-repeat: no-repeat;
+}
+
+#o-dilema-das-redes {
+    background-color: #3c5cff;
+    background-image: linear-gradient(225deg, #7185e9 0%, #6c6a6a 50%, #7cb0d5 100%);
+    height:450px;
+}

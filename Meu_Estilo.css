@@ -1,0 +1,33 @@
+body{
+    background: #66cdbf;
+	}
+
+h1{
+    color: #000000;
+    background-color:  #66CDAA;
+    font-family: arial, verdana, sans-serif;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+h2{
+    font-family: "Times New Roman", serif;
+    font-variant: normal;
+    text-decoration: overline;
+}
+
+h3{
+    text-decoration: line-through;
+}
+/*
+p{
+    font: normal normal 20px "Times New Roman", serif;
+}*/
+
+p{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:arial, sans-serif;
+    text-indent: 30px;
+}
